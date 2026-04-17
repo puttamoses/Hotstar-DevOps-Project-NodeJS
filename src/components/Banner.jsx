@@ -21,7 +21,7 @@ function Banner() {
 
     <div className='bbc'>
         <div className='st'>
-          <img src="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/2448/1602448-i-fbe90a6f290a" alt="" />
+          <img src="https://cdn.123telugu.com/content/wp-content/uploads/2025/05/OG-1.jpg" alt="" />
           </div>
        
         
